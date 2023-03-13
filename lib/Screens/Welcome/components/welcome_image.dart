@@ -12,10 +12,7 @@ class WelcomeImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        Text(
-          "WELCOME TO EDU",
-          style: TextStyle(fontWeight: FontWeight.bold),
-        ),
+        
         SizedBox(height: defaultPadding * 2),
         Row(
           children: [
