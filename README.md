@@ -1,6 +1,6 @@
 # login_signup Final
 
-A new Flutter project.
+ simple example of login and signup
 
 ## Getting Started
 
